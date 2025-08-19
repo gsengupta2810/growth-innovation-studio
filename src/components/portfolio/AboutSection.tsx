@@ -61,7 +61,7 @@ const AboutSection = () => {
               </div>
               <h3 className="font-semibold mb-2">Product Innovation</h3>
               <p className="text-sm text-muted-foreground">
-                AI-powered solutions deployed across global manufacturing leaders
+                Building AI-driven products with lasting user and market impact
               </p>
             </div>
 
@@ -71,7 +71,7 @@ const AboutSection = () => {
               </div>
               <h3 className="font-semibold mb-2">Growth Leadership</h3>
               <p className="text-sm text-muted-foreground">
-                International expansion across 10 countries with $500K+ ARR
+                Driving global expansion and scaling businesses across diverse markets
               </p>
             </div>
 
@@ -81,7 +81,7 @@ const AboutSection = () => {
               </div>
               <h3 className="font-semibold mb-2">Data-Driven Results</h3>
               <p className="text-sm text-muted-foreground">
-                85% funnel productivity improvement through analytics optimization
+                Leveraging insights to deliver measurable growth and efficiency
               </p>
             </div>
           </div>
