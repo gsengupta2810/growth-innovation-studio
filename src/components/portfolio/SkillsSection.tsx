@@ -139,14 +139,14 @@ const SkillsSection = () => {
                 </div>
                 <h4 className="font-semibold mb-2">Global Scale</h4>
                 <p className="text-sm text-muted-foreground">
-                  Proven ability to scale products across 10+ international markets
+                  Proven ability to scale products across multiple international markets
                 </p>
               </div>
               <div className="text-center">
                 <div className="w-12 h-12 bg-primary/10 rounded-lg mx-auto mb-3 flex items-center justify-center">
                   <span className="text-xl">🚀</span>
                 </div>
-                <h4 className="font-semibold mb-2">AI Innovation</h4>
+                <h4 className="font-semibold mb-2">Product Innovation</h4>
                 <p className="text-sm text-muted-foreground">
                   Deep expertise in AI-powered product development and deployment
                 </p>
@@ -166,7 +166,7 @@ const SkillsSection = () => {
                 </div>
                 <h4 className="font-semibold mb-2">Team Leadership</h4>
                 <p className="text-sm text-muted-foreground">
-                  Experience managing cross-functional teams of 15+ professionals
+                  Experience managing large cross-functional teams across Product, Growth, and Customer Success
                 </p>
               </div>
             </div>
