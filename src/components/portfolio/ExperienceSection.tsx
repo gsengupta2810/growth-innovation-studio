@@ -12,11 +12,11 @@ const ExperienceSection = () => {
       logo: "🔬",
       achievements: [
         "Set up international business across 10 countries, acquiring 18 enterprise customers ($500K+ ARR)",
-        "Deployed AI solutions (LIDAR, IR sensors) for global steel & cement leaders",
-        "Expanded presence with top 5 global manufacturers",
-        "Built scalable go-to-market strategies for emerging markets"
+        "Deployed AI solutions (Computer Vision, Process optimisation) for global manufacturing leaders",
+        "Built a team of 15 members encompassing Product, Marketing, Analytics and Sales for the international markets",
+        "Formulated scalable go-to-market strategies for new emerging markets and successfully executed them"
       ],
-      tags: ["AI/ML", "International Expansion", "B2B Sales", "Manufacturing"]
+      tags: ["AI Product", "International Expansion", "B2B Sales", "SaaS", "Growth"]
     },
     {
       company: "Miko",
@@ -25,24 +25,24 @@ const ExperienceSection = () => {
       location: "Mumbai, India",
       logo: "🤖",
       achievements: [
-        "Redesigned Parent App → 2X session time, +70% trial-to-paid conversion",
+        "Redesigned Parent App → 2X session time, 70%+ trial-to-paid conversion",
         "Scaled subscriptions to $2M ARR (+150% YoY growth)",
         "Integrated premium content partnerships (Disney, Paramount, Lingokids)",
-        "Led cross-functional team of 15+ engineers and designers"
+        "Led cross-functional team of 15+ PMs, Engineers and Designers"
       ],
       tags: ["Product Management", "EdTech", "Subscriptions", "Mobile Apps"]
     },
     {
       company: "Byju's",
-      role: "Planning & Analytics Lead",
-      period: "2019 - 2021",
-      location: "Bangalore, India",
+      role: "Senior Program Manager - Growth",
+      period: "2020 - 2021",
+      location: "Mumbai, India",
       logo: "📚",
       achievements: [
-        "Drove customer re-engagement and scaled new class models to $6M run rate",
-        "Improved funnel productivity by 85% through data-driven processes",
-        "Built analytics framework for 50M+ student interactions",
-        "Optimized pricing strategies across multiple product lines"
+        "Drove customer re-engagement and scaled 1:Many class models to $6M run rate",
+        "Improved demo funnel conversion rates by 70% through data-driven process modifications",
+        "Built analytics framework for analysis of 100k+ student-teacher interactions",
+        "Optimised user outreach strategies across multiple product lines"
       ],
       tags: ["Analytics", "EdTech", "Growth", "Data Science"]
     },
@@ -53,10 +53,10 @@ const ExperienceSection = () => {
       location: "Bangalore, India",
       logo: "🚗",
       achievements: [
-        "Launched Ola in London → 10% market share in 5 weeks",
-        "Designed supply business plans across UK, AU, NZ",
+        "Launched Ola Cabs in the UK, 5 cities including London",
+        "Designed supply business plans across UK, AU and NZ",
         "Managed $3M weekly revenue operations",
-        "Built demand forecasting models for international markets"
+        "Built demand and supply forecasting models for international markets"
       ],
       tags: ["Market Entry", "Mobility", "International", "Operations"]
     }
@@ -135,7 +135,7 @@ const ExperienceSection = () => {
           <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center p-6 bg-card rounded-lg shadow-sm hover-lift">
               <DollarSign className="w-8 h-8 text-primary mx-auto mb-3" />
-              <div className="text-2xl font-bold text-primary mb-1">$8M+</div>
+              <div className="text-2xl font-bold text-primary mb-1">$10M+</div>
               <div className="text-sm text-muted-foreground">Total Revenue Impact</div>
             </div>
             <div className="text-center p-6 bg-card rounded-lg shadow-sm hover-lift">
@@ -145,7 +145,7 @@ const ExperienceSection = () => {
             </div>
             <div className="text-center p-6 bg-card rounded-lg shadow-sm hover-lift">
               <Users className="w-8 h-8 text-primary mx-auto mb-3" />
-              <div className="text-2xl font-bold text-primary mb-1">50M+</div>
+              <div className="text-2xl font-bold text-primary mb-1">1M+</div>
               <div className="text-sm text-muted-foreground">Users Impacted</div>
             </div>
           </div>
