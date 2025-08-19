@@ -38,11 +38,15 @@ const HeroSection = () => {
 
           {/* Call-to-Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="https://drive.google.com/file/d/1jfAJae1WbylTZSmm0DB0EpIwPKgckIy5/view?usp=drive_link" 
+             target="_blank" 
+             rel="noopener noreferrer">
             <Button size="lg" className="group">
               <Download className="w-5 h-5 mr-2 group-hover:scale-110 transition-transform" />
               View Resume
               <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
             </Button>
+            </a>
             <Button 
               variant="outline" 
               size="lg" 
@@ -61,12 +65,12 @@ const HeroSection = () => {
               <div className="text-sm text-muted-foreground">Years Experience</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-primary mb-2">$8M+</div>
-              <div className="text-sm text-muted-foreground">Revenue Generated</div>
+              <div className="text-3xl font-bold text-primary mb-2">$10M+</div>
+              <div className="text-sm text-muted-foreground">Revenue Impact</div>
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-primary mb-2">10+</div>
-              <div className="text-sm text-muted-foreground">Countries Expanded</div>
+              <div className="text-sm text-muted-foreground">Countries Expanded Into</div>
             </div>
           </div>
         </div>
