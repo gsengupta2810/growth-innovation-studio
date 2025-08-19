@@ -57,10 +57,12 @@ const Header = () => {
 
           {/* CTA Buttons */}
           <div className="hidden md:flex items-center space-x-4">
+            <a href="https://drive.google.com/file/d/1jfAJae1WbylTZSmm0DB0EpIwPKgckIy5/view?usp=drive_link" download="Gunjan-Sengupta-Resume.pdf">
             <Button variant="outline" size="sm">
               <FileText className="w-4 h-4 mr-2" />
               Resume
             </Button>
+            </a>
             <Button size="sm" onClick={() => scrollToSection("contact")}>
               <Mail className="w-4 h-4 mr-2" />
               Contact
