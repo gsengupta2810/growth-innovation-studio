@@ -38,7 +38,7 @@ const HeroSection = () => {
 
           {/* Call-to-Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://drive.google.com/file/d/1jfAJae1WbylTZSmm0DB0EpIwPKgckIy5/view?usp=drive_link" 
+            <a href="https://drive.google.com/file/d/1KxHFTB4px91GYXNMim-AVN3tnmbpDKkb/view?usp=drive_link" 
              target="_blank" 
              rel="noopener noreferrer">
             <Button size="lg" className="group">
