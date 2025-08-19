@@ -24,7 +24,7 @@ const AboutSection = () => {
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 From launching products in international markets to redesigning user experiences that 
-                drive 2X engagement, I bring a data-driven approach to product development and 
+                drive engagement, I bring a data-driven approach to product development and 
                 sustainable growth.
               </p>
             </div>
@@ -34,9 +34,15 @@ const AboutSection = () => {
               <div className="relative">
                 <div className="w-full h-96 bg-gradient-to-br from-primary/10 to-accent/10 rounded-lg flex items-center justify-center shadow-lg hover-lift">
                   <div className="text-center">
-                    <div className="w-24 h-24 bg-primary/20 rounded-full mx-auto mb-4 flex items-center justify-center">
+{/*                     <div className="w-24 h-24 bg-primary/20 rounded-full mx-auto mb-4 flex items-center justify-center">
                       <span className="text-2xl font-bold text-primary">📊</span>
-                    </div>
+                    </div> */}
+                    {/* Profile Photo */}
+                    <img
+                      src="/profile.jpg"   // place your photo inside the public/ folder
+                      alt="Gunjan Sengupta"
+                      className="w-32 h-32 rounded-full mx-auto mb-4 object-cover shadow-md"
+                    />
                     <p className="text-muted-foreground">Professional Photo</p>
                   </div>
                 </div>
