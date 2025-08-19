@@ -6,12 +6,12 @@ import { ExternalLink, FileText, Mic, Calendar } from "lucide-react";
 const PublicationsSection = () => {
   const publications = [
     {
-      title: "LD-RRT: LSTM-Based Dynamic Rapidly-exploring Random Trees for Robot Navigation",
+      title: "Probabilistic Path Planning using Obstacle Trajectory Prediction,
       type: "Research Paper",
-      venue: "IEEE Conference on Robotics and AI",
-      year: "2023",
+      venue: "CODS-COMAD ACM International Conference on Data Science and Management of Data",
+      year: "2019",
       description: "A novel approach combining LSTM neural networks with RRT algorithms for enhanced robot navigation in dynamic environments.",
-      tags: ["AI/ML", "Robotics", "Navigation", "IEEE"],
+      tags: ["AI/ML", "Robotics", "Navigation", "ACM International"],
       icon: "📄",
       link: "#"
     }
@@ -19,49 +19,22 @@ const PublicationsSection = () => {
 
   const speaking = [
     {
-      title: "AI in Manufacturing: Scaling Computer Vision Solutions",
-      event: "Global Manufacturing Summit 2023",
-      location: "Singapore",
-      date: "Nov 2023",
-      description: "Keynote on deploying AI solutions across global steel and cement manufacturing operations.",
-      audience: "500+ industry leaders",
+      title: "Computer Vision to control emissions in Steel manufacturing",
+      event: "Roadmap & challenges for I&S - Towards Decarbonisation",
+      location: "Delhi, India",
+      date: "Oct 2024",
+      description: "Panel discussion and keynote on deploying AI solutions across global steel manufacturing operations to enhance efficiency and reduce emmissions",
+      audience: "100+ Govt officials, industry leaders and global ",
       icon: "🎤"
     },
     {
-      title: "Product-Led Growth in International Markets",
-      event: "ProductCon 2023",
-      location: "London, UK",
-      date: "Sep 2023",
-      description: "Panel discussion on strategies for scaling products across diverse international markets.",
-      audience: "300+ product managers",
+      title: "Vision AI for industries",
+      event: "SynerLeap Up to Speed - AI Products for Industries",
+      location: "Online Webinar",
+      date: "Sep 2024",
+      description: "Webinar on ",
+      audience: "100+ Industry experts and IoT company representatives",
       icon: "🌍"
-    },
-    {
-      title: "The Future of EdTech: AI-Powered Learning Experiences",
-      event: "EdTech Innovation Summit",
-      location: "Mumbai, India",
-      date: "Jun 2023",
-      description: "Exploring how AI can transform educational technology and improve learning outcomes.",
-      audience: "200+ educators and product leaders",
-      icon: "🎓"
-    },
-    {
-      title: "Data-Driven Product Strategy",
-      event: "Growth Summit Asia",
-      location: "Virtual",
-      date: "Mar 2023",
-      description: "Workshop on using analytics to drive product decisions and optimize growth funnels.",
-      audience: "150+ growth professionals",
-      icon: "📊"
-    },
-    {
-      title: "Mobility Solutions for Emerging Markets",
-      event: "Transport Innovation Conference",
-      location: "Bangalore, India",
-      date: "Dec 2022",
-      description: "Insights from launching Ola in London and scaling mobility solutions globally.",
-      audience: "400+ industry professionals",
-      icon: "🚗"
     }
   ];
 
