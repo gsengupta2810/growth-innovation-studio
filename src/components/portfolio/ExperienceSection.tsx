@@ -49,7 +49,7 @@ const ExperienceSection = () => {
     {
       company: "Ola",
       role: "Senior Business Analyst",
-      period: "2017 - 2019",
+      period: "2018 - 2020",
       location: "Bangalore, India",
       logo: "🚗",
       achievements: [
