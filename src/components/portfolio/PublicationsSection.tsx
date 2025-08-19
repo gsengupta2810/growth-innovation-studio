@@ -6,7 +6,7 @@ import { ExternalLink, FileText, Mic, Calendar } from "lucide-react";
 const PublicationsSection = () => {
   const publications = [
     {
-      title: "Probabilistic Path Planning using Obstacle Trajectory Prediction,
+      title: "Probabilistic Path Planning using Obstacle Trajectory Prediction",
       type: "Research Paper",
       venue: "CODS-COMAD ACM International Conference on Data Science and Management of Data",
       year: "2019",
