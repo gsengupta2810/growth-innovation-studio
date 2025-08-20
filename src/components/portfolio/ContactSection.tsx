@@ -44,25 +44,25 @@ const ContactSection = () => {
     {
       icon: <Mail className="w-5 h-5" />,
       label: "Email",
-      value: "gunjan.sengupta@email.com",
-      href: "mailto:gunjan.sengupta@email.com"
+      value: "gsengupta2810@gmail.com",
+      href: "mailto:gsengupta2810@gmail.com"
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
       label: "LinkedIn",
-      value: "linkedin.com/in/gunjansengupta",
-      href: "https://linkedin.com/in/gunjansengupta"
+      value: "https://www.linkedin.com/in/gunjan-sengupta-354422ab/",
+      href: "https://www.linkedin.com/in/gunjan-sengupta-354422ab/"
     },
     {
       icon: <Phone className="w-5 h-5" />,
       label: "Phone",
-      value: "+91 98765 43210",
-      href: "tel:+919876543210"
+      value: "+91 9933990947",
+      href: "tel:+91 9933990947"
     },
     {
       icon: <MapPin className="w-5 h-5" />,
       label: "Location",
-      value: "Mumbai, India",
+      value: "Noida, India",
       href: null
     }
   ];
@@ -127,9 +127,13 @@ const ContactSection = () => {
                 </CardHeader>
                 <CardContent>
                   <Button className="w-full" size="lg">
+                    <a href="https://drive.google.com/uc?export=download&id=1KxHFTB4px91GYXNMim-AVN3tnmbpDKkb" 
+                       target="_blank" 
+                       rel="noopener noreferrer">
                     <Download className="w-5 h-5 mr-2" />
                     Download Resume (PDF)
                   </Button>
+                    </a>
                 </CardContent>
               </Card>
             </div>
