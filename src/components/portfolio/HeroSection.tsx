@@ -27,7 +27,7 @@ const HeroSection = () => {
 
           {/* Role */}
           <h2 className="text-xl md:text-2xl lg:text-3xl font-medium text-muted-foreground mb-8">
-            Product & Growth Leader
+            Product & Growth Leader | IIT Kharagpur (2018)
           </h2>
 
           {/* Subheadline */}
