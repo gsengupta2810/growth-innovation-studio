@@ -235,7 +235,7 @@ const ContactSection = () => {
               <Button 
                 variant="secondary" 
                 size="lg"
-                onClick={() => window.open('mailto:gunjan.sengupta@email.com', '_blank')}
+                onClick={() => window.open('mailto:gsengupta2810@gmail.com', '_blank')}
               >
                 <Mail className="w-5 h-5 mr-2" />
                 Email Me Directly
@@ -244,7 +244,7 @@ const ContactSection = () => {
                 variant="outline" 
                 size="lg"
                 className="bg-white/10 border-white/20 text-white hover:bg-white/20"
-                onClick={() => window.open('https://linkedin.com/in/gunjansengupta', '_blank')}
+                onClick={() => window.open('https://www.linkedin.com/in/gunjan-sengupta-354422ab/', '_blank')}
               >
                 <Linkedin className="w-5 h-5 mr-2" />
                 Connect on LinkedIn
