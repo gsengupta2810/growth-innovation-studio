@@ -72,10 +72,16 @@ const PublicationsSection = () => {
                           </CardDescription>
                         </div>
                       </div>
+                      <a 
+                        href="https://dl.acm.org/doi/abs/10.1145/3297001.3297006" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                      >
                       <Button variant="outline" size="sm" className="flex-shrink-0">
                         <ExternalLink className="w-4 h-4 mr-2" />
                         View Paper
                       </Button>
+                      </a>
                     </div>
                   </CardHeader>
                   <CardContent>
