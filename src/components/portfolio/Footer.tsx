@@ -26,7 +26,7 @@ const Footer = () => {
                   variant="ghost" 
                   size="sm"
                   className="text-background hover:bg-background/10"
-                  onClick={() => window.open('https://linkedin.com/in/gunjansengupta', '_blank')}
+                  onClick={() => window.open('https://www.linkedin.com/in/gunjan-sengupta-354422ab/', '_blank')}
                 >
                   <Linkedin className="w-4 h-4" />
                 </Button>
@@ -34,7 +34,7 @@ const Footer = () => {
                   variant="ghost" 
                   size="sm"
                   className="text-background hover:bg-background/10"
-                  onClick={() => window.open('mailto:gunjan.sengupta@email.com', '_blank')}
+                  onClick={() => window.open('mailto:gsengupta2810@gmail.com', '_blank')}
                 >
                   <Mail className="w-4 h-4" />
                 </Button>
@@ -106,18 +106,18 @@ const Footer = () => {
                 <li>Mumbai, India</li>
                 <li>
                   <a 
-                    href="mailto:gunjan.sengupta@email.com"
+                    href="mailto:gsengupta2810@gmail.com"
                     className="hover:text-background transition-colors"
                   >
-                    gunjan.sengupta@email.com
+                    gsengupta2810@mail.com
                   </a>
                 </li>
                 <li>
                   <a 
-                    href="tel:+919876543210"
+                    href="tel:+919933990947"
                     className="hover:text-background transition-colors"
                   >
-                    +91 98765 43210
+                    +91 99339 90947
                   </a>
                 </li>
               </ul>
