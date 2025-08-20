@@ -103,7 +103,7 @@ const Footer = () => {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-background/80">
-                <li>Mumbai, India</li>
+                <li>Noida, India</li>
                 <li>
                   <a 
                     href="mailto:gsengupta2810@gmail.com"
