@@ -41,7 +41,7 @@ const AboutSection = () => {
                     <img
                       src="/profile.jpg"   // place your photo inside the public/ folder
                       alt="Gunjan Sengupta"
-                      className="w-33 h-33 rounded-full mx-auto mb-4 object-cover shadow-md"
+                      className="w-32 h-32 rounded-full mx-auto mb-4 object-cover shadow-md"
                     />
 {/*                     <p className="text-muted-foreground">Professional Photo</p> */}
                   </div>
